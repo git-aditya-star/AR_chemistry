@@ -20,3 +20,4 @@ Information screen contains the basic information about the compound such as its
 AR view previews the molecule in AR over the image marker. And using image tracking feature inbuilt in app user can observe the 3D model of compound in different directions, so that he/she can easily count the number of bonds and atoms. All the 3D models have sutable color notations to identify one atom from another.
 
 <img src="images/aniline.jpg" width="200">  <img src="images/chloroform.jpg" width="200"> <img src="images/glycerol.jpg" width="200">  <img src="images/oxalic acid.jpg" width="200"> <img src="images/phenol.jpg" width="200">  <img src="images/urea.jpg" width="200">
+hyfsdoiwerjipejrodjsidhcviwefwekdfs9fwdklw[skfsd9uvfrejftorkfd
